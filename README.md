@@ -25,5 +25,4 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow to
     ```
 2. Run `mri_classifier.ipynb` or `main.py`
 
-## ✍️ Author
-Amritha Dileep Kumar
+
